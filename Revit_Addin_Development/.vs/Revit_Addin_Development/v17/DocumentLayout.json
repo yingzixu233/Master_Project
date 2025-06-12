@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xuyin\\OneDrive\\Desktop\\Master_Project\\Revit_Addin_Development\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE5086E-01C9-4EF7-8EAC-1C43F1D101A2}|Revit_Addin_Development.csproj|c:\\users\\xuyin\\onedrive\\desktop\\master_project\\revit_addin_development\\ma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE5086E-01C9-4EF7-8EAC-1C43F1D101A2}|Revit_Addin_Development.csproj|solutionrelative:ma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE5086E-01C9-4EF7-8EAC-1C43F1D101A2}|Revit_Addin_Development.csproj|c:\\users\\xuyin\\onedrive\\desktop\\master_project\\revit_addin_development\\csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE5086E-01C9-4EF7-8EAC-1C43F1D101A2}|Revit_Addin_Development.csproj|solutionrelative:csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\xuyin\\OneDrive\\Desktop\\Master_Project\\Revit_Addin_Development\\CsvFileReader.cs",
+              "RelativeDocumentMoniker": "CsvFileReader.cs",
+              "ToolTip": "C:\\Users\\xuyin\\OneDrive\\Desktop\\Master_Project\\Revit_Addin_Development\\CsvFileReader.cs",
+              "RelativeToolTip": "CsvFileReader.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:38:28.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MA.cs",
+              "DocumentMoniker": "C:\\Users\\xuyin\\OneDrive\\Desktop\\Master_Project\\Revit_Addin_Development\\MA.cs",
+              "RelativeDocumentMoniker": "MA.cs",
+              "ToolTip": "C:\\Users\\xuyin\\OneDrive\\Desktop\\Master_Project\\Revit_Addin_Development\\MA.cs",
+              "RelativeToolTip": "MA.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAqwKQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:34:18.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
